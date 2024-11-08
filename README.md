@@ -25,3 +25,15 @@ The task is to create a program that generates and prints all prime numbers in t
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo2-output.png)
+
+## Exercise 3: Perfect Number Checker
+
+### Problem Statement:
+
+The task is to create a program that checks whether a given number is a perfect number or not. A perfect number is a positive integer that is equal to the sum of its proper divisors, excluding itself. For example, 6 is a perfect number because its divisors (1, 2, 3) sum up to 6.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo3-output.png)
