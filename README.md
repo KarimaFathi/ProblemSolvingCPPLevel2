@@ -37,3 +37,15 @@ The task is to create a program that checks whether a given number is a perfect 
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo3-output.png)
+
+## Exercise 4: Perfect Numbers from 1 to N
+
+### Problem Statement:
+
+The task is to create a program that generates and prints all perfect numbers in the range from 1 to a user-specified number N.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo4-output.png)
