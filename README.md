@@ -69,3 +69,15 @@ There are two approaches to reversing the digits of a number:
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo5-output.png)
+
+## Exercise 6: Sum of digits
+
+### Problem Statement:
+
+The task is to create a program that reads a positive number from the user and prints the sum of its digits.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo6-output.png)
