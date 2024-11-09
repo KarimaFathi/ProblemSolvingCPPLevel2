@@ -81,3 +81,15 @@ The task is to create a program that reads a positive number from the user and p
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo6-output.png)
+
+## Exercise 7: Reverse a Number
+
+### Problem Statement:
+
+The task is to create a program that reads a positive integer from the user and returns the number with its digits reversed.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo7-output.png)
