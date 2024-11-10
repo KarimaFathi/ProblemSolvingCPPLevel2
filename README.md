@@ -93,3 +93,15 @@ The task is to create a program that reads a positive integer from the user and 
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo7-output.png)
+
+## Exercise 7: Count Digit Frequency
+
+### Problem Statement:
+
+The task is to create a program that reads a number and a digit from the user and returns the digit frequency in that number.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo8-output.png)
