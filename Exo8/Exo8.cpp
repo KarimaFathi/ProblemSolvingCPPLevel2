@@ -31,6 +31,6 @@ int main()
 {   
     long num = readPositiveNumber("Please enter a positive number.\n");
     short digit = readPositiveNumber("Please enter one digit to check.\n");
-    cout << "Digit " << digit << " Frequency is " << findDigitFrequency(num, digit);
+    cout << "\nDigit " << digit << " Frequency is " << findDigitFrequency(num, digit) << " time(s)";
     return 0;
 }
