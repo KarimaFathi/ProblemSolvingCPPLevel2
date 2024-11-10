@@ -105,3 +105,15 @@ The task is to create a program that reads a number and a digit from the user an
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo8-output.png)
+
+## Exercise 9: Count All Digits Frequency
+
+### Problem Statement:
+
+The task is to create a program that reads a number from the user and returns all digits frequency in that number.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo9-output.png)
