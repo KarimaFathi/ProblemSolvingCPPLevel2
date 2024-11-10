@@ -94,7 +94,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo7-output.png)
 
-## Exercise 7: Count Digit Frequency
+## Exercise 8: Count Digit Frequency
 
 ### Problem Statement:
 
