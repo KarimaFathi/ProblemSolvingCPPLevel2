@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProblemSolvingCPPLevel2\\Exo11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3680F54F-9FCF-494D-A9CA-613EACEFC912}|Exo11.vcxproj|D:\\ProblemSolvingCPPLevel2\\Exo11\\Exo11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3680F54F-9FCF-494D-A9CA-613EACEFC912}|Exo11.vcxproj|solutionrelative:Exo11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exo11.cpp",
+              "DocumentMoniker": "D:\\ProblemSolvingCPPLevel2\\Exo11\\Exo11.cpp",
+              "RelativeDocumentMoniker": "Exo11.cpp",
+              "ToolTip": "D:\\ProblemSolvingCPPLevel2\\Exo11\\Exo11.cpp",
+              "RelativeToolTip": "Exo11.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T11:37:10.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
