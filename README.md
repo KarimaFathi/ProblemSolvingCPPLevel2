@@ -129,3 +129,16 @@ The task is to create a program that reads a number from the user and returns it
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo10-output.png)
+
+## Exercise 11: Palindrome Number Checker
+
+### Problem Statement:
+
+The task is to create a program that reads a number from the user and returns if it is a Palindrome number or not.
+A palindrome number is a number that reads the same forward and backward. In other words, its digits are symmetrical
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo11-output.png)
