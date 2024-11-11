@@ -154,3 +154,15 @@ This program prompts the user for a positive integer and prints an inverted numb
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo12-output.png)
+
+## Exercise 13: Print Number Pattern
+
+### Problem Statement:
+
+This program prompts the user for a positive integer and prints a number pattern where each row contains the same digit, and the number of digits in each row increases as you move down.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo13-output.png)
