@@ -117,3 +117,15 @@ The task is to create a program that reads a number from the user and returns al
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo9-output.png)
+
+## Exercise 10: Reversed Digit Display
+
+### Problem Statement:
+
+The task is to create a program that reads a number from the user and returns it in order from left to right
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo10-output.png)
