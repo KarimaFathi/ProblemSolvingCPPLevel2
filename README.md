@@ -142,3 +142,15 @@ A palindrome number is a number that reads the same forward and backward. In oth
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo11-output.png)
+
+## Exercise 12: Print Inverted Number Pattern
+
+### Problem Statement:
+
+This program prompts the user for a positive integer and prints an inverted number pattern, where each row contains the same digit and the number of digits decreases with each row.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo12-output.png)
