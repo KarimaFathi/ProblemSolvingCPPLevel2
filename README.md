@@ -183,10 +183,22 @@ Below is an example of the output of the program:
 
 ### Problem Statement:
 
-This program prompts the user for a positive integer and program that generates a letter pattern based on a user-input digit and displays a series of characters, where each line consists of a repeated character corresponding to the current row number in order, starting with the character corresponding to the letter for the input number.
+This program prompts the user for a positive integer and generates a letter pattern based on a user-input digit and displays a series of characters, where each line consists of a repeated character corresponding to the current row number in order, starting with the character corresponding to the letter for the input number.
 
 ### Output:
 
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo15-output.png)
+
+## Exercise 16: All Combinations of Three Uppercase Letters generator
+
+### Problem Statement:
+
+This program prompts the user for a positive integer and prints all possible combinations of three uppercase letters from the English alphabet, where each letter can be any of the 26 uppercase letters ('A' to 'Z'). Each combination of three letters should be printed on a new line (AAA ... ZZZ);
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo16-output.png)
