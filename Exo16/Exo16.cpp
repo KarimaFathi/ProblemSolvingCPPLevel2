@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-void printLetterPattern() {
+void printLettersFromAAAtoZZZ() {
     cout << endl;
     for (int i = 65; i <= 90; i++) {
         for (int j = 65; j <= 90; j++) {
@@ -14,6 +14,6 @@ void printLetterPattern() {
 }
 int main()
 {
-    printLetterPattern();
+    printLettersFromAAAtoZZZ();
     return 0;
 }
