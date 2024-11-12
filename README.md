@@ -178,3 +178,15 @@ This program prompts the user for a positive integer and program that generates 
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo14-output.png)
+
+## Exercise 15: Alphabet Pattern Generator
+
+### Problem Statement:
+
+This program prompts the user for a positive integer and program that generates a letter pattern based on a user-input digit and displays a series of characters, where each line consists of a repeated character corresponding to the current row number in order, starting with the character corresponding to the letter for the input number.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo15-output.png)
