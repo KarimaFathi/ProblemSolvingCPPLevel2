@@ -202,3 +202,16 @@ This program prompts the user for a positive integer and prints all possible com
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo16-output.png)
+
+## Exercise 17: Three-Letter Password Guesser
+
+### Problem Statement:
+
+This program guesses a three-letter uppercase password by generating all possible combinations of letters (from "AAA" to "ZZZ"). It compares each guess with the user's input and outputs the correct password along with the number of attempts needed to find it.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo17-output.png)
+
