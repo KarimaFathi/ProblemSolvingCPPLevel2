@@ -215,3 +215,12 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo17-output.png)
 
+### Exercice 18 : Word Encryption and Decryption
+
+This program allows the user to input a word, then encrypts and decrypts the word by shifting the ASCII values of its characters. The program then displays the encrypted word followed by the decrypted word.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo18-output.png)
