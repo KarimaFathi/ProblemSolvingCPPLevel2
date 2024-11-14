@@ -1,0 +1,4 @@
+﻿  Exo20.cpp
+D:\ProblemSolvingCPPLevel2\Exo20\Exo20.cpp(34,14): warning C4101: 'randomList': unreferenced local variable
+D:\ProblemSolvingCPPLevel2\Exo20\Exo20.cpp(29,1): warning C4715: 'getRandomCharType': not all control paths return a value
+  Exo20.vcxproj -> D:\ProblemSolvingCPPLevel2\Exo20\x64\Debug\Exo20.exe
