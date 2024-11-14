@@ -217,6 +217,8 @@ Below is an example of the output of the program:
 
 ### Exercice 18 : Word Encryption and Decryption
 
+### Problem Statement:
+
 This program allows the user to input a word, then encrypts and decrypts the word by shifting the ASCII values of its characters. The program then displays the encrypted word followed by the decrypted word.
 
 ### Output:
@@ -224,3 +226,29 @@ This program allows the user to input a word, then encrypts and decrypts the wor
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo18-output.png)
+
+
+### Exercice 20 : Random Character Generator
+
+### Problem Statement:
+
+This program generates and displays a random number respecting a specified range;
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo19-output.png)
+
+
+### Exercice 20 : Random Character Generator Based on Enum Types
+
+### Problem Statement:
+
+This program generates and displays one random character from each of the following categories: lowercase letter (a-z), uppercase letter (A-Z), special character (ASCII values 32-47), and digit (0-9). It uses an enum to represent these categories and a random number generator to select and print a character from each category.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo20-output.png)
