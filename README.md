@@ -262,3 +262,15 @@ This program generates a series of alphanumeric keys in a predefined format. Eac
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo21-output.png)
+
+### Ecercice 22 : Digit Frequency Counter in an Array
+
+## Problem Statement:
+
+This program allows the user to input the length of an array and then enter the elements of the array. After displaying the array, the program prompts the user to input a number. It then counts and displays how many times the specified number appears in the array.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo22-output.png)
