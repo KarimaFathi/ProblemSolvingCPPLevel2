@@ -21,7 +21,7 @@ int random(int from, int to) {
     return randNum;
 }
 
-// method 1 in one function specific to that exercice's need
+// method 1 in one function specific to that exercise's need
 //void generateKeys(int number) {
 //    string keys = "";
 //    for (int i = 1; i <= number; i++) {
