@@ -3,7 +3,7 @@
 using namespace std;
 
 
-short readPositiveNumber(string message) {
+short readNumber(string message) {
     short number;
     do {
         cout << message;
@@ -51,7 +51,7 @@ int main()
     readArrayData(array, arrLength);
     printArray(array, arrLength);
 
-    int digit = readPositiveNumber("\nEnter the number you want to check ");
+    int digit = readNumber("\nEnter the number you want to check ");
     printDigitFrequency(digit, array, arrLength);
     return 0;
 }
