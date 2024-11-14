@@ -274,3 +274,15 @@ This program allows the user to input the length of an array and then enter the 
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo22-output.png)
+
+### Ecercice 23 : Digit Frequency Counter in an Array
+
+## Problem Statement:
+
+The program prompts the user to input the array length (with a maximum size of 100) and then fills the array with random numbers ranging from 1 to 100.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo23-output.png)
