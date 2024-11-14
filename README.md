@@ -227,7 +227,6 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo18-output.png)
 
-
 ### Exercice 20 : Random Character Generator
 
 ### Problem Statement:
@@ -240,7 +239,6 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo19-output.png)
 
-
 ### Exercice 20 : Random Character Generator Based on Enum Types
 
 ### Problem Statement:
@@ -252,3 +250,15 @@ This program generates and displays one random character from each of the follow
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo20-output.png)
+
+### Ecercice 21 : Key Generation System with Customizable Length and Format
+
+## Problem Statement:
+
+This program generates a series of alphanumeric keys in a predefined format. Each key consists of four segments, with each segment containing four random uppercase letters separated by hyphens (e.g., XXXX-XXXX-XXXX-XXXX). The number of keys to generate is specified by the user at runtime, and the program ensures randomness by selecting uppercase letters for each segment.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo21-output.png)
