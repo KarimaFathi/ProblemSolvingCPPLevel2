@@ -299,7 +299,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo24-output.png)
 
-### Ecercice 24 : Random Array Population and Minimum Number Detection
+### Ecercice 25 : Random Array Population and Minimum Number Detection
 
 ## Problem Statement:
 
