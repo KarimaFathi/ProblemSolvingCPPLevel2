@@ -298,3 +298,15 @@ The program prompts the user to input the array length (with a maximum size of 1
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo24-output.png)
+
+### Ecercice 24 : Random Array Population and Minimum Number Detection
+
+## Problem Statement:
+
+The program prompts the user to input the array length (with a maximum size of 100), fills the array with random numbers between 1 and 100, and then displays the array along with the minimum value from the generated numbers.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo25-output.png)
