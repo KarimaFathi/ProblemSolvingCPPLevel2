@@ -334,3 +334,15 @@ The program prompts the user to input the length of an array (with a maximum siz
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo28-output.png)
+
+### Ecercice 29 : Copying Only Prime Numbers From Random Array Values to a Second Array
+
+## Problem Statement:
+
+The program prompts the user to enter the length of an array (up to a maximum size of 100). It then populates the array with random integers between 1 and 100. After that, the program creates a second array and copies only the prime numbers from the first array into the second array. Finally, the program displays both the original array (with all the random numbers) and the second array (containing only the prime numbers) to the user.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo29-output.png)
