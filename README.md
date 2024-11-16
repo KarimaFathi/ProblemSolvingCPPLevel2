@@ -299,14 +299,14 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo24-output.png)
 
-### Ecercice 25 : Random Array Population and Minimum Number Detection
+### Ecercice 26 : Sum Array Numbers
 
 ## Problem Statement:
 
-The program prompts the user to input the array length (with a maximum size of 100), fills the array with random numbers between 1 and 100, and then displays the array along with the minimum value from the generated numbers.
+The program prompts the user to input the array length (with a maximum size of 100), fills the array with random numbers between 1 and 100, and then displays the array along with the sum value of all array 's numbers.
 
 ### Output:
 
 Below is an example of the output of the program:
 
-![Output Example](images/Exo25-output.png)
+![Output Example](images/Exo26-output.png)
