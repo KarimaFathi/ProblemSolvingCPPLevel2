@@ -322,3 +322,15 @@ The program prompts the user to input the array length (with a maximum size of 1
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo27-output.png)
+
+### Ecercice 28 : Copying Random Array Values to a Second Array
+
+## Problem Statement:
+
+The program prompts the user to input the length of an array (with a maximum size of 100). It then fills the array with random numbers between 1 and 100. Afterward, the program creates a second array and copies the values from the first array into it. Finally, the program displays both the original and the copied arrays to the user.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo28-output.png)
