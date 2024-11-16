@@ -310,3 +310,15 @@ The program prompts the user to input the array length (with a maximum size of 1
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo26-output.png)
+
+### Ecercice 27 : Average Array Numbers
+
+## Problem Statement:
+
+The program prompts the user to input the array length (with a maximum size of 100), fills the array with random numbers between 1 and 100, and then displays the array along with the average value of all array 's numbers.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo27-output.png)
