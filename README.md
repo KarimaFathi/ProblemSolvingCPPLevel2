@@ -346,3 +346,15 @@ The program prompts the user to enter the length of an array (up to a maximum si
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo29-output.png)
+
+### Ecercice 30 : Sum of 2 Arrays
+
+## Problem Statement:
+
+The program first prompts the user to input the desired length of an array, which can be up to a maximum of 100 elements. It then generates two arrays, each filled with random integers between 1 and 100. Afterward, a third array is created, where each element is the sum of the corresponding elements from the first two arrays. Finally, the program displays the original arrays showing all the generated random numbers and the third array, which contains the summed values from the first two arrays.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo30-output.png)
