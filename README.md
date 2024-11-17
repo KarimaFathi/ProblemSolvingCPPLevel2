@@ -215,7 +215,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo17-output.png)
 
-### Exercice 18 : Word Encryption and Decryption
+## Exercice 18 : Word Encryption and Decryption
 
 ### Problem Statement:
 
@@ -227,7 +227,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo18-output.png)
 
-### Exercice 20 : Random Character Generator
+## Exercice 20 : Random Character Generator
 
 ### Problem Statement:
 
@@ -239,7 +239,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo19-output.png)
 
-### Exercice 20 : Random Character Generator Based on Enum Types
+## Exercice 20 : Random Character Generator Based on Enum Types
 
 ### Problem Statement:
 
@@ -251,9 +251,9 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo20-output.png)
 
-### Ecercice 21 : Key Generation System with Customizable Length and Format
+## Ecercice 21 : Key Generation System with Customizable Length and Format
 
-## Problem Statement:
+### Problem Statement:
 
 This program generates a series of alphanumeric keys in a predefined format. Each key consists of four segments, with each segment containing four random uppercase letters separated by hyphens (e.g., XXXX-XXXX-XXXX-XXXX). The number of keys to generate is specified by the user at runtime, and the program ensures randomness by selecting uppercase letters for each segment.
 
@@ -263,9 +263,9 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo21-output.png)
 
-### Ecercice 22 : Digit Frequency Counter in an Array
+## Ecercice 22 : Digit Frequency Counter in an Array
 
-## Problem Statement:
+### Problem Statement:
 
 This program allows the user to input the length of an array and then enter the elements of the array. After displaying the array, the program prompts the user to input a number. It then counts and displays how many times the specified number appears in the array.
 
@@ -275,9 +275,9 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo22-output.png)
 
-### Ecercice 23 : Random Array Generator with User-Defined Length
+## Ecercice 23 : Random Array Generator with User-Defined Length
 
-## Problem Statement:
+### Problem Statement:
 
 The program prompts the user to input the array length (with a maximum size of 100) and then fills the array with random numbers ranging from 1 to 100.
 
@@ -287,9 +287,9 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo23-output.png)
 
-### Ecercice 24 : Random Array Population and Maximum Number Detection
+## Ecercice 24 : Random Array Population and Maximum Number Detection
 
-## Problem Statement:
+### Problem Statement:
 
 The program prompts the user to input the array length (with a maximum size of 100), fills the array with random numbers between 1 and 100, and then displays the array along with the maximum value from the generated numbers.
 
@@ -299,9 +299,9 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo24-output.png)
 
-### Ecercice 26 : Sum Array Numbers
+## Ecercice 26 : Sum Array Numbers
 
-## Problem Statement:
+### Problem Statement:
 
 The program prompts the user to input the array length (with a maximum size of 100), fills the array with random numbers between 1 and 100, and then displays the array along with the sum value of all array 's numbers.
 
@@ -311,9 +311,9 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo26-output.png)
 
-### Ecercice 27 : Average Array Numbers
+## Ecercice 27 : Average Array Numbers
 
-## Problem Statement:
+### Problem Statement:
 
 The program prompts the user to input the array length (with a maximum size of 100), fills the array with random numbers between 1 and 100, and then displays the array along with the average value of all array 's numbers.
 
@@ -323,9 +323,9 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo27-output.png)
 
-### Ecercice 28 : Copying Random Array Values to a Second Array
+## Ecercice 28 : Copying Random Array Values to a Second Array
 
-## Problem Statement:
+### Problem Statement:
 
 The program prompts the user to input the length of an array (with a maximum size of 100). It then fills the array with random numbers between 1 and 100. Afterward, the program creates a second array and copies the values from the first array into it. Finally, the program displays both the original and the copied arrays to the user.
 
@@ -335,9 +335,9 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo28-output.png)
 
-### Ecercice 29 : Copying Only Prime Numbers From Random Array Values to a Second Array
+## Ecercice 29 : Copying Only Prime Numbers From Random Array Values to a Second Array
 
-## Problem Statement:
+### Problem Statement:
 
 The program prompts the user to enter the length of an array (up to a maximum size of 100). It then populates the array with random integers between 1 and 100. After that, the program creates a second array and copies only the prime numbers from the first array into the second array. Finally, the program displays both the original array (with all the random numbers) and the second array (containing only the prime numbers) to the user.
 
@@ -347,9 +347,9 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo29-output.png)
 
-### Ecercice 30 : Sum of 2 Arrays
+## Ecercice 30 : Sum of 2 Arrays
 
-## Problem Statement:
+### Problem Statement:
 
 The program first prompts the user to input the desired length of an array, which can be up to a maximum of 100 elements. It then generates two arrays, each filled with random integers between 1 and 100. Afterward, a third array is created, where each element is the sum of the corresponding elements from the first two arrays. Finally, the program displays the original arrays showing all the generated random numbers and the third array, which contains the summed values from the first two arrays.
 
@@ -358,3 +358,15 @@ The program first prompts the user to input the desired length of an array, whic
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo30-output.png)
+
+## Ecercice 31 : Array Elements Shuffler
+
+### Problem Statement:
+
+The program begins by prompting the user to enter the desired length of an array, with a maximum of 100 elements. It then generates an array where each element corresponds to its index, starting from 1. Afterward, the program shuffles the array elements randomly. Finally, the program displays both the original and shuffled arrays.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo31-output.png)
