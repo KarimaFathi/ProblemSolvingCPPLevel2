@@ -382,3 +382,15 @@ The program prompts the user to input the length of an array (up to a maximum si
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo32-output.png)
+
+## Ecercice 33 : Fill Array with Randomly Generated Keys
+
+### Problem Statement:
+
+This program prompts the user to enter the number of random keys to generate. Each key consists of four groups of four uppercase letters, separated by hyphens (e.g., ABCD-EFGH-IJKL-MNOP). The keys are stored in an array, and the program then displays the array of generated keys.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo33-output.png)
