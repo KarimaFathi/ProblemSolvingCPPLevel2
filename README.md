@@ -370,3 +370,15 @@ The program begins by prompting the user to enter the desired length of an array
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo31-output.png)
+
+## Ecercice 32 : Copy Array in Reverse Order
+
+### Problem Statement:
+
+The program prompts the user to input the length of an array (up to a maximum size of 100). It then fills the array with random numbers between 1 and 100. Next, the program creates a second array and copies the values from the first array into the second, but in reverse order. Finally, it displays both the original and the reversed arrays to the user.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo32-output.png)
