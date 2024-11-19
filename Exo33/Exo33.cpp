@@ -61,7 +61,6 @@ void generateKeys(string arrayKeys[100], int numberOfKeys) {
     
     for (int i = 0; i < numberOfKeys; i++) {
         arrayKeys[i] = generateKey();
-        /*cout << "Key [" << i << "] : " << generateKey() << endl;*/
     }
 }
 
