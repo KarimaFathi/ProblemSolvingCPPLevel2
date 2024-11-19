@@ -1,0 +1,3 @@
+﻿  Exo33.cpp
+D:\ProblemSolvingCPPLevel2\Exo33\Exo33.cpp(40,1): warning C4715: 'getRandomChar': not all control paths return a value
+  Exo33.vcxproj -> D:\ProblemSolvingCPPLevel2\Exo33\x64\Debug\Exo33.exe
