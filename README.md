@@ -394,3 +394,17 @@ This program prompts the user to enter the number of random keys to generate. Ea
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo33-output.png)
+
+## Ecercice 33 : Find Digit Position In An Array
+
+### Problem Statement:
+
+The program generates an array of random integers and allows the user to specify the size of the array and a target number to search for. It then searches the array for the target number, reporting its position if found or indicating that the number is not present.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo34-output.png)
+
+
