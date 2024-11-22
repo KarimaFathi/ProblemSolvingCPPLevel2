@@ -407,7 +407,6 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo34-output.png)
 
-
 ## Ecercice 35 : Find Digit In An Array
 
 ### Problem Statement:
@@ -419,3 +418,15 @@ The program generates an array of random integers and allows the user to specify
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo35-output.png)
+
+## Ecercice 36 :Semi-Dynamic Array Input for Positive Numbers"
+
+### Problem Statement:
+
+This program allows the user to input positive numbers and stores them in a semi-dynamic array, where the user can decide whether to add more numbers after each entry. The process continues until the user chooses not to add more numbers or the array reaches its maximum size of 100 elements.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo36-output.png)
