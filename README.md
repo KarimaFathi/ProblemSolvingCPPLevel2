@@ -395,7 +395,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo33-output.png)
 
-## Ecercice 33 : Find Digit Position In An Array
+## Ecercice 34 : Find Digit Position In An Array
 
 ### Problem Statement:
 
@@ -408,3 +408,14 @@ Below is an example of the output of the program:
 ![Output Example](images/Exo34-output.png)
 
 
+## Ecercice 35 : Find Digit In An Array
+
+### Problem Statement:
+
+The program generates an array of random integers and allows the user to specify the size of the array and a target number to search for. It then searches the array for the target number, reporting if it is found or not.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo35-output.png)
