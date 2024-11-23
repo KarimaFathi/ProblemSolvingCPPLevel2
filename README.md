@@ -419,7 +419,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo35-output.png)
 
-## Ecercice 36 :Semi-Dynamic Array Input for Positive Numbers"
+## Ecercice 36 :Semi-Dynamic Array Input for Positive Numbers
 
 ### Problem Statement:
 
@@ -430,3 +430,19 @@ This program allows the user to input positive numbers and stores them in a semi
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo36-output.png)
+
+## Ecercice 37 : A More Efficient Approach to Solving Exo28
+
+### Problem Statement:
+
+The program begins by prompting the user to enter the desired length of an array, with a maximum size of 100 elements. It then populates the array with random numbers ranging from 1 to 100. Next, the program creates a second array and copies the values from the first array into it. Finally, both the original and the copied arrays are displayed to the user. 
+
+### Note : 
+
+This is the Exo28 problem, but with more efficient and refined solution.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo37-output.png)
