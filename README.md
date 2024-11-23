@@ -474,3 +474,5 @@ This is the Exo29 problem, but with more efficient and refined solution.
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo39-output.png)
+
+
