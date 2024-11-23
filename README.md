@@ -475,4 +475,14 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo39-output.png)
 
+## Exercice 40 : Creating an Array of Distinct Elements from A One Based on User Input
 
+### Problem Statement:
+
+The program allows the user to input a series of positive integers and stores them in an array. It then creates a second array that contains only the distinct values from the first array, removing any duplicates while preserving the original order.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo40-output.png)
