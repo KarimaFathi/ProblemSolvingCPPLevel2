@@ -435,9 +435,9 @@ Below is an example of the output of the program:
 
 ### Problem Statement:
 
-The program begins by prompting the user to enter the desired length of an array, with a maximum size of 100 elements. It then populates the array with random numbers ranging from 1 to 100. Next, the program creates a second array and copies the values from the first array into it. Finally, both the original and the copied arrays are displayed to the user. 
+The program begins by prompting the user to enter the desired length of an array, with a maximum size of 100 elements. It then populates the array with random numbers ranging from 1 to 100. Next, the program creates a second array and copies the values from the first array into it. Finally, both the original and the copied arrays are displayed to the user.
 
-### Note : 
+### Note :
 
 This is the Exo28 problem, but with more efficient and refined solution.
 
@@ -458,3 +458,19 @@ The program prompts the user to enter the length of an array (up to a maximum si
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo38-output.png)
+
+## Exercice 39 : A More Efficient Approach to Solving Exo29
+
+### Problem Statement:
+
+The program prompts the user to enter the length of an array (up to a maximum size of 100). It then populates the array with random integers between 1 and 100. After that, the program creates a second array and copies only the prime numbers from the first array into the second array. Finally, the program displays both the original array (with all the random numbers) and the second array (containing only the prime numbers) to the user.
+
+### Note :
+
+This is the Exo29 problem, but with more efficient and refined solution.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo39-output.png)
