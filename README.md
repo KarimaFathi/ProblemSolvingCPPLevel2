@@ -251,7 +251,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo20-output.png)
 
-## Ecercice 21 : Key Generation System with Customizable Length and Format
+## Exercice 21 : Key Generation System with Customizable Length and Format
 
 ### Problem Statement:
 
@@ -263,7 +263,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo21-output.png)
 
-## Ecercice 22 : Digit Frequency Counter in an Array
+## Exercice 22 : Digit Frequency Counter in an Array
 
 ### Problem Statement:
 
@@ -275,7 +275,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo22-output.png)
 
-## Ecercice 23 : Random Array Generator with User-Defined Length
+## Exercice 23 : Random Array Generator with User-Defined Length
 
 ### Problem Statement:
 
@@ -287,7 +287,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo23-output.png)
 
-## Ecercice 24 : Random Array Population and Maximum Number Detection
+## Exercice 24 : Random Array Population and Maximum Number Detection
 
 ### Problem Statement:
 
@@ -299,7 +299,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo24-output.png)
 
-## Ecercice 26 : Sum Array Numbers
+## Exercice 26 : Sum Array Numbers
 
 ### Problem Statement:
 
@@ -311,7 +311,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo26-output.png)
 
-## Ecercice 27 : Average Array Numbers
+## Exercice 27 : Average Array Numbers
 
 ### Problem Statement:
 
@@ -323,7 +323,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo27-output.png)
 
-## Ecercice 28 : Copying Random Array Values to a Second Array
+## Exercice 28 : Copying Random Array Values to a Second Array
 
 ### Problem Statement:
 
@@ -335,7 +335,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo28-output.png)
 
-## Ecercice 29 : Copying Only Prime Numbers From Random Array Values to a Second Array
+## Exercice 29 : Copying Only Prime Numbers From Random Array Values to a Second Array
 
 ### Problem Statement:
 
@@ -347,7 +347,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo29-output.png)
 
-## Ecercice 30 : Sum of 2 Arrays
+## Exercice 30 : Sum of 2 Arrays
 
 ### Problem Statement:
 
@@ -359,7 +359,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo30-output.png)
 
-## Ecercice 31 : Array Elements Shuffler
+## Exercice 31 : Array Elements Shuffler
 
 ### Problem Statement:
 
@@ -371,7 +371,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo31-output.png)
 
-## Ecercice 32 : Copy Array in Reverse Order
+## Exercice 32 : Copy Array in Reverse Order
 
 ### Problem Statement:
 
@@ -383,7 +383,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo32-output.png)
 
-## Ecercice 33 : Fill Array with Randomly Generated Keys
+## Exercice 33 : Fill Array with Randomly Generated Keys
 
 ### Problem Statement:
 
@@ -395,7 +395,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo33-output.png)
 
-## Ecercice 34 : Find Digit Position In An Array
+## Exercice 34 : Find Digit Position In An Array
 
 ### Problem Statement:
 
@@ -407,7 +407,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo34-output.png)
 
-## Ecercice 35 : Find Digit In An Array
+## Exercice 35 : Find Digit In An Array
 
 ### Problem Statement:
 
@@ -419,7 +419,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo35-output.png)
 
-## Ecercice 36 :Semi-Dynamic Array Input for Positive Numbers
+## Exercice 36 :Semi-Dynamic Array Input for Positive Numbers
 
 ### Problem Statement:
 
@@ -431,7 +431,7 @@ Below is an example of the output of the program:
 
 ![Output Example](images/Exo36-output.png)
 
-## Ecercice 37 : A More Efficient Approach to Solving Exo28
+## Exercice 37 : A More Efficient Approach to Solving Exo28
 
 ### Problem Statement:
 
@@ -446,3 +446,15 @@ This is the Exo28 problem, but with more efficient and refined solution.
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo37-output.png)
+
+## Exercice 38 : Copying Only Odd Numbers From Random Array Values to a Second Array
+
+### Problem Statement:
+
+The program prompts the user to enter the length of an array (up to a maximum size of 100). It then populates the array with random integers between 1 and 100. After that, the program creates a second array and copies only the odd numbers from the first array into the second array. Finally, the program displays both the original array (with all the random numbers) and the second array (containing only the odd numbers) to the user.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo38-output.png)
