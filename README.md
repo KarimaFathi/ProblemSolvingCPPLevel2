@@ -486,3 +486,15 @@ The program allows the user to input a series of positive integers and stores th
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo40-output.png)
+
+## Exercice 41 : Palindrome Array Checker
+
+### Problem Statement:
+
+the program checks whether an array of integers is a palindrome.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo41-output.png)
