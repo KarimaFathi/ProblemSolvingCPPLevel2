@@ -594,3 +594,15 @@ The program prompts the user to enter a number and calculates its ceil value usi
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo49-output.png)
+
+## Exercice 50 : Sqrt Calculation: Custom vs Built-in Function
+
+### Problem Statement:
+
+The program prompts the user to enter a number and calculates its sqrt value using a custom function. It then compares the result with the built-in sqrt() function and displays both results for comparison.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo50-output.png)
