@@ -1,0 +1,3 @@
+﻿  Exo50.cpp
+D:\ProblemSolvingCPPLevel2\Exo50\Exo50.cpp(13,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Exo50.vcxproj -> D:\ProblemSolvingCPPLevel2\Exo50\x64\Debug\Exo50.exe
