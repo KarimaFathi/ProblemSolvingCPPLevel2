@@ -522,3 +522,15 @@ The program for counts the number of even numbers in an array of integers.
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo43-output.png)
+
+## Exercice 43 : Positive Numbers in Array Counter
+
+### Problem Statement:
+
+The program for counts the number of positive numbers in an array of integers.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo44-output.png)
