@@ -510,3 +510,15 @@ The program for counts the number of odd numbers in an array of integers.
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo42-output.png)
+
+## Exercice 43 : Even Numbers in Array Counter
+
+### Problem Statement:
+
+The program for counts the number of even numbers in an array of integers.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo43-output.png)
