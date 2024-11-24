@@ -546,3 +546,15 @@ The program for counts the number of negative numbers in an array of integers.
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo45-output.png)
+
+## Exercice 46 :Absolute Value Calculation: Custom vs Built-in Function
+
+### Problem Statement:
+
+The program prompts the user to enter a number and calculates its absolute value using a custom myABS function. It then compares the result with the built-in abs function and displays both results for comparison.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo46-output.png)
