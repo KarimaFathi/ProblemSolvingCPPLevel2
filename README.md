@@ -570,3 +570,15 @@ The program prompts the user to enter a number and calculates its round value us
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo47-output.png)
+
+## Exercice 48 :Floor Value Calculation: Custom vs Built-in Function
+
+### Problem Statement:
+
+The program prompts the user to enter a number and calculates its floor value using a custom function. It then compares the result with the built-in floor() function and displays both results for comparison.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo48-output.png)
