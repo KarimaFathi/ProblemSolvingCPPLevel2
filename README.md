@@ -582,3 +582,15 @@ The program prompts the user to enter a number and calculates its floor value us
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo48-output.png)
+
+## Exercice 49 : Ceil Value Calculation: Custom vs Built-in Function
+
+### Problem Statement:
+
+The program prompts the user to enter a number and calculates its ceil value using a custom function. It then compares the result with the built-in ceil() function and displays both results for comparison.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo49-output.png)
