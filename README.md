@@ -498,3 +498,15 @@ the program checks whether an array of integers is a palindrome.
 Below is an example of the output of the program:
 
 ![Output Example](images/Exo41-output.png)
+
+## Exercice 42 : Odd Numbers in Array Counter
+
+### Problem Statement:
+
+The program for counts the number of odd numbers in an array of integers.
+
+### Output:
+
+Below is an example of the output of the program:
+
+![Output Example](images/Exo42-output.png)
