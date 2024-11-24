@@ -1,2 +1,3 @@
 ﻿  Exo48.cpp
+D:\ProblemSolvingCPPLevel2\Exo48\Exo48.cpp(25,14): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
   Exo48.vcxproj -> D:\ProblemSolvingCPPLevel2\Exo48\x64\Debug\Exo48.exe

@@ -16,10 +16,13 @@ float getFractionPart(float number) {
 
 int myFloor(float number) {
 	int intPart = int(number);
-	if (number > 0) {
-		return intPart;
+	if (abs(getFractionPart(number)) > 0) {
+		if (number > 0) {
+			return intPart ;
+		}
+		else return intPart - 1;
 	}
-	else return intPart - 1;
+	else return number;
 }
 
 
