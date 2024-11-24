@@ -8,14 +8,21 @@ float readNumber() {
 	return num;
 }
 
+float GetFractionPart(float number)
+{
+	return number - int(number);
+}
 
 
 int myCeil(float number) {
 	int intPart = int(number);
-	if (number > 0) {
-		return intPart + 1;
+	if (abs(GetFractionPart(number)) > 0) {
+		if (number > 0) {
+			return intPart + 1;
+		}
+		else return intPart;
 	}
-	else return intPart ;
+	else return number;
 }
 
 
